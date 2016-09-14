@@ -1,0 +1,1 @@
+![brand icon](https://raw.githubusercontent.com/MoKee/android_vendor_apple_iphone7/mkm/proprietary/images/brand.jpg)
